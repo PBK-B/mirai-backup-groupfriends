@@ -1,0 +1,10 @@
+.idea/
+
+application.yaml
+device.json
+
+logs/
+
+group_users/
+qrcode.png
+session.token
